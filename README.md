@@ -2,6 +2,7 @@
 The project was created as a semester project. In this we create a ticket in pdf form by using the information given by the user. There are also many any other small functionalities like allowing the user to see if the train is delayed and also complain. Each button has its own unique functionality.
 
 
+
 Login Page: 
 ![Screenshot 2023-09-06 110616](https://github.com/asifahmadd53/raiwlay-management-system/assets/140102103/f188a298-db29-4f47-ae19-4354adf483cd)
 
@@ -16,9 +17,12 @@ Enter details to create pdf:
 ![Screenshot 2023-09-06 110837](https://github.com/asifahmadd53/raiwlay-management-system/assets/140102103/75595a9c-413a-4ea9-95ce-9cbd42bffce4)
 
 
+
 Created pdf:
 
 [Ticket.pdf](https://github.com/asifahmadd53/raiwlay-management-system/files/12533983/Ticket.pdf)
+
+
 
 
 Other small functionalities:
